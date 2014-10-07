@@ -22,6 +22,9 @@
 
   <remote  name="danutzgtx480" 
            fetch="git://github.com/danutzgtx480" />
+            
+  <remote  name="feherneoh" 
+           fetch="git://github.com/feherneoh" />
 
   <default revision="refs/heads/ics"
            remote="github"
